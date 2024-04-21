@@ -19,6 +19,9 @@ Solved Leetcode problem 36.
 Day 7:21.04.2024
 Solved Leetcode Problem 704. 
 
+Day 8:22.04.2024
+solved Leetcode problem 118.
+
 
 
 
