@@ -2,3 +2,7 @@ Day 1:15.04.2023
 Implemented Recursive and iterative Binary Search algorithm using c++. 
 
 
+Day 2:16.04.2023
+Solved Leetcode problem 35.
+
+
